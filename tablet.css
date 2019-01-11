@@ -121,12 +121,12 @@ body,html {
   line-height:1.2em;
  }
 
-.chapter_at {
+.chapter-at {
   
   width:768px;
   }
 
-.chapter_at h3 {
+.chapter-at h3 {
   width:768px;
   min-height:180px;
   font-family: 'Open Sans', sans-serif;
@@ -140,7 +140,7 @@ body,html {
   box-sizing:border-box;
   background-color:#fff;
 }
-.chapter_at img {
+.chapter-at img {
   position:absolute;
   margin-top:-11.2%;
   margin-left:-21%;
